@@ -1,0 +1,33 @@
+Análisis choque de sistema estelar con gas 
+Estudiar simulación del choque de una nube de gas con sistema de estrellas Objetivos: 
+* Identificar centros de cada sistema por separado.
+* Estudiar la energía de cada sistema por separado, así como la energía total.
+* Identificar posible pérdida de masa en el intercambio.
+-------------------------------------------
+Importancia/Puntos a tratar:
+* Colisiones pueden afectar a sus alrededores.
+* Importancia de la masa estelar para clasificar conocer su edad y lo que implicaría una ganancia/pérdida de masa para ambos objetos.
+* Energía -->
+* Predecir fenómenos 
+La colisión de una nube de gas con un sistema de estrellas se ve muy frecuentemente en la formación estelar. Cuando las nubes de gases se contraen y forman estrellas, generando a su alrededor discos protoplanetarios. Además, las nubes de gas pueden influir gravitacionalmente a los objetos de su alrededor, por lo que las órbitas dentro de un sistema estelar pueden verse afectados por estas.\\
+
+Es importante estudiar cada aspecto por individual de los objetos, para conocer cómo puede afectar a la estrella, la ganancia o pérdida de energía influirá en su tamaño y masa, por lo que también cambiará su clasificación como tal. Además, el conocer estos sistemas también puede ayudarnos a predecir eventos masivos como la colisión de la nube Smith con la Vía Láctea y cómo esto afectará a cada estrella.\\
+
+Referencias:
+* N-body simulations of stars escaping from the Orion nebula: Monthly Notices of the Royal Astronomical Society, Volume 350, Issue 2, May 2004, Pages 615–626, https://doi.org/10.1111/j.1365-2966.2004.07673.x
+* Plait, M. (2016, 3 febrero). Sometimes They Come Back: Giant Gas Cloud on Collision Course With the Milky Way. Slate. https://slate.com/technology/2016/02/smith-cloud-due-to-collide-with-our-galaxy-in-27-million-years.html
+* UK Astrophysical Fluids Facility. (s. f.). https://www.ukaff.ac.uk/starcluster/
+
+Info igual útil:
+
+* A Component of the Smith High-velocity Cloud Now Crossing the Galactic Plane: Felix J. Lockman et al., 2023, ApJ, 943, 55, doi: 10.3847/1538-4357/aca764 (https://iopscience.iop.org/article/10.3847/1538-4357/aca764/meta)
+
+* Instituto de Astrofísica de Andalucía (IAA-CSIC).(2018,12 junio). Nubes de gas que se comportan como estrellas. Sinc: Ciencia contada en español. https://www.agenciasinc.es/Noticias/Nubes-de-gas-que-se-comportan-como-estrellas
+
+* López, M. (2021, 19 octubre). Un universo caníbal: la Nube de Magallanes se ha tragado otras galaxias en su camino a chocar con la Vía Láctea. Xataka. https://www.xataka.com/espacio/universo-canibal-nube-magallanes-se-ha-tragado-otras-galaxias-su-camino-a-chocar-via-lactea#:~:text=la%20Nube%20de%20Magallanes%20es,de%202.000%20millones%20de%20a%C3%B1os.
+
+* Chorro de estrella bebé incide en proceso de formación estelar en región cercana | ALMA. (s. f.). https://www.almaobservatory.org/es/comunicados-de-prensa/chorro-de-estrella-bebe-incide-en-proceso-de-formacion-estelar-en-region-cercana/
+
+
+
+
